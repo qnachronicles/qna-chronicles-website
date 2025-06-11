@@ -35,7 +35,7 @@ function App() {
           </div>
         </div>
         <div className="hero-image">
-          <img src="/Quetheauthorprofilepic2.jpg" alt="Q&A Chronicles Authors" />
+          <img src="/images/Quetheauthorprofilepic2.jpg" alt="Q&A Chronicles Authors" />
         </div>
       </section>
 
@@ -59,7 +59,7 @@ function App() {
               </p>
             </div>
             <div className="about-image">
-              <img src="/Q&APatreon(1084x576px)(FacebookCover).jpg" alt="Q&A Chronicles Community" />
+              <img src="/images/Q&APatreon(1084x576px)(FacebookCover).jpg" alt="Q&A Chronicles Community" />
             </div>
           </div>
         </div>
@@ -71,7 +71,7 @@ function App() {
           <h2>Our Books & Resources</h2>
           <div className="books-grid">
             <div className="book-card">
-              <img src="/TheHustlethatHonorsGod(coverpage).jpg" alt="The Hustle That Honors God" />
+              <img src="/images/TheHustlethatHonorsGod(coverpage).jpg" alt="The Hustle That Honors God" />
               <h3>The Hustle That Honors God</h3>
               <p>Thriving in Business and Family</p>
               <div className="book-links">
@@ -80,7 +80,7 @@ function App() {
             </div>
             
             <div className="book-card">
-              <img src="/CrownAndcover3dfinal.png" alt="Crown & Cover Series" />
+              <img src="/images/CrownAndcover3dfinal.png" alt="Crown & Cover Series" />
               <h3>You're Her Husband, Not Her Roommate</h3>
               <p>Crown & Cover Series</p>
               <div className="book-links">
@@ -89,7 +89,7 @@ function App() {
             </div>
             
             <div className="book-card">
-              <img src="/TheCrown&CoverCouplesworkbook.jpg" alt="Crown & Cover Couples Workbook" />
+              <img src="/images/TheCrown&CoverCouplesworkbook.jpg" alt="Crown & Cover Couples Workbook" />
               <h3>You're His Wife, Not His Mother</h3>
               <p>Crown & Cover Series</p>
               <div className="book-links">
@@ -98,7 +98,7 @@ function App() {
             </div>
             
             <div className="book-card">
-              <img src="/Crown&Coverseriesadvertisementspecialoffer.jpg" alt="Crown & Cover Couples Workbook" />
+              <img src="/images/Crown&Coverseriesadvertisementspecialoffer.jpg" alt="Crown & Cover Couples Workbook" />
               <h3>Crown & Cover Couples Workbook</h3>
               <p>A Journey Toward Deeper Connection, Growth & Commitment</p>
               <div className="book-links">
@@ -192,10 +192,10 @@ function App() {
               <p>We’re Quinten and Ashley White, a couple navigating life, love, and business while raising a family. Q&A Chronicles is your hub for real stories, practical tips, and inspiration for entrepreneurial families striving to thrive without a 9-to-5.</p>
               <p>Expect:</p>
               <ul>
-                <li>✔ Real-life stories of balancing business and parenting</li>
-                <li>✔ Tips for couples building businesses together</li>
-                <li>✔ Work-life balance strategies</li>
-                <li>✔ Inspiring music to keep you motivated</li>
+                <li>✓ Real-life stories of balancing business and parenting</li>
+                <li>✓ Tips for couples building businesses together</li>
+                <li>✓ Work-life balance strategies</li>
+                <li>✓ Inspiring music to keep you motivated</li>
               </ul>
               <p>With faith, grit, and humor, we’ve building a life of freedom, and we’re here to help you do the same. Whether you’re starting a side hustle, pursuing your passions, or dreaming of generational wealth, this is the channel for you.</p>
               <p>Join the Q&A Chronicles community for weekly videos, exclusive content, and support from families just like yours. Tell us in the comments: What dream are you building for your family? Let’s thrive together!</p>
@@ -275,9 +275,9 @@ function App() {
               </div>
               <div className="footer-column">
                 <h4>Community</h4>
-                <a href="https://www.instagram.com/qnachronicles" target="_blank" rel="noopener noreferrer">Instagram</a>
-                <a href="https://www.tiktok.com/@qnachronicles" target="_blank" rel="noopener noreferrer">TikTok</a>
-                <a href="https://www.youtube.com/@qnachronicles" target="_blank" rel="noopener noreferrer">YouTube</a>
+                <a href="https://www.instagram.com/qnachronicles">Instagram</a>
+                <a href="https://www.tiktok.com/@qnachronicles">TikTok</a>
+                <a href="https://www.youtube.com/@qnachronicles">YouTube</a>
                 <a href="#">Patreon</a>
               </div>
               <div className="footer-column">
@@ -295,8 +295,7 @@ function App() {
         </div>
       </footer>
     </div>
-  );
+   );
 }
 
 export default App;
-
